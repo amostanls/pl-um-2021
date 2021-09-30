@@ -68,7 +68,7 @@ The following table describes the slug for each problem:
     <td class="tg-gaoc" rowspan="5">Open</td>
     <td class="tg-gaoc">A</td>
     <td class="tg-gaoc">The Poly-tical Question</td>
-    <td class="tg-gaoc">the_poly-tical question</td>
+    <td class="tg-gaoc">the_poly-tical_question</td>
   </tr>
   <tr>
     <td class="tg-gaoc">B</td>
@@ -151,7 +151,7 @@ The following table describes the slug for each problem:
   <tr>
     <td class="tg-gaoc">E</td>
     <td class="tg-gaoc">Meow Christmas Tree</td>
-    <td class="tg-gaoc">meow_christams tree</td>
+    <td class="tg-gaoc">meow_christmas_tree</td>
   </tr>
   <tr>
     <td class="tg-gaoc">F</td>
