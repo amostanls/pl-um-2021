@@ -8,8 +8,8 @@ Categories included:
 - Open Cateogry is for all students.
 
 Rounds included:
-- Preliminary Round is an elimnation round, the top 10 teams will advance to Grand Finale. 
-- Finale Round is where teams compete for prizes.
+- Preliminary Round is an elimnation round which the top 10 teams will advance to Grand Finale. 
+- Finale Round is which the teams compete for prizes.
 
 Programming League Contest 2021 is hosted using [Codeforces](https://codeforces.com/). Here are the contest links:
 - [Preliminary Round [Closed]](https://bit.ly/3f3N74x) 
@@ -20,20 +20,12 @@ Programming League Contest 2021 is hosted using [Codeforces](https://codeforces.
 ## Repository Structure
 Each round has their own folder which contains each cateogory's folder and an editorial for the round.
 
-Each problem has their own folder in respective rounds and categories. The folder name is the `slug` of the problem, which is the codename we used when we internally prepare the problems. The following image shows the structure of this repository. 
+Each problem has their own folder in respective rounds and categories. The folder name is the `slug` of the problem. The following image shows the structure of this repository. 
 
 ![repository structure](https://gist.githubusercontent.com/amostanls/d4b50b24d6935cdd30b6371fc6d48337/raw/5fb0d6cb57287b6059ac7ab123e23d0505f900fc/pl-um-2021-directory.png)
 
 The following table describes the slug for each problem:
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
-  padding:10px 5px;word-break:normal;}
-.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-aktf{border-color:inherit;color:#333333;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-gaoc{border-color:inherit;color:#333333;text-align:center;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
